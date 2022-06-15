@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: 7760fda952522de4ba7d95ab2376d266
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7348392123068287784
+    second: NAVES JUGADOR 1 SHEET_0
+  - first:
+      213: -935584461170123030
+    second: NAVES JUGADOR 1 SHEET_1
+  - first:
+      213: 1701261881388341544
+    second: NAVES JUGADOR 1 SHEET_2
+  - first:
+      213: 6487882197157910364
+    second: NAVES JUGADOR 1 SHEET_3
+  - first:
+      213: -1062493252389435629
+    second: NAVES JUGADOR 1 SHEET_4
+  - first:
+      213: 597512484528826156
+    second: NAVES JUGADOR 1 SHEET_5
+  - first:
+      213: 2225920596167431129
+    second: NAVES JUGADOR 1 SHEET_6
+  - first:
+      213: 8822818809205174020
+    second: NAVES JUGADOR 1 SHEET_7
+  - first:
+      213: -5720129300445490850
+    second: NAVES JUGADOR 1 SHEET_8
+  - first:
+      213: -3623498242033854784
+    second: NAVES JUGADOR 1 SHEET_9
+  - first:
+      213: 59301415387161455
+    second: NAVES JUGADOR 1 SHEET_10
+  - first:
+      213: -3870331460433017404
+    second: NAVES JUGADOR 1 SHEET_11
+  - first:
+      213: -5523924834316316137
+    second: NAVES JUGADOR 1 SHEET_12
+  - first:
+      213: -5274952638591962294
+    second: NAVES JUGADOR 1 SHEET_13
+  - first:
+      213: -3552307291104202483
+    second: NAVES JUGADOR 1 SHEET_14
+  - first:
+      213: 4945641175145708989
+    second: NAVES JUGADOR 1 SHEET_15
+  - first:
+      213: -1214764051191483064
+    second: NAVES JUGADOR 1 SHEET_16
+  - first:
+      213: 8936060761922663326
+    second: NAVES JUGADOR 1 SHEET_17
+  - first:
+      213: 7262426558865179841
+    second: NAVES JUGADOR 1 SHEET_18
+  - first:
+      213: -3301664808555138632
+    second: NAVES JUGADOR 1 SHEET_19
+  - first:
+      213: 5386803751353814078
+    second: NAVES JUGADOR 1 SHEET_20
+  - first:
+      213: 2034809621651317637
+    second: NAVES JUGADOR 1 SHEET_21
+  - first:
+      213: 6525515264018024906
+    second: NAVES JUGADOR 1 SHEET_22
+  - first:
+      213: -1168922118459077870
+    second: NAVES JUGADOR 1 SHEET_23
+  - first:
+      213: -4433774312350059601
+    second: NAVES JUGADOR 1 SHEET_24
+  - first:
+      213: 8980982530399850667
+    second: NAVES JUGADOR 1 SHEET_25
+  - first:
+      213: 2460084524696612601
+    second: NAVES JUGADOR 1 SHEET_26
+  - first:
+      213: -1266114925250076769
+    second: NAVES JUGADOR 1 SHEET_27
+  - first:
+      213: -780130211027598298
+    second: NAVES JUGADOR 1 SHEET_28
+  - first:
+      213: 8494959304254533201
+    second: NAVES JUGADOR 1 SHEET_29
+  - first:
+      213: -6947297713929020200
+    second: NAVES JUGADOR 1 SHEET_30
+  - first:
+      213: -3066628827641500429
+    second: NAVES JUGADOR 1 SHEET_31
+  - first:
+      213: -5325415937217103357
+    second: NAVES JUGADOR 1 SHEET_32
+  - first:
+      213: -6126415979741444947
+    second: NAVES JUGADOR 1 SHEET_33
+  - first:
+      213: 7594865515006722431
+    second: NAVES JUGADOR 1 SHEET_34
+  - first:
+      213: 4167341670655055849
+    second: NAVES JUGADOR 1 SHEET_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 284
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d47c3a2c44450a90800000000000000
+      internalID: -7348392123068287784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 716
+        width: 284
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee5496b3e22403f0800000000000000
+      internalID: -935584461170123030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_2
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 716
+        width: 284
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829901edaa81c9710800000000000000
+      internalID: 1701261881388341544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_3
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 716
+        width: 284
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c579d2aeb76990a50800000000000000
+      internalID: 6487882197157910364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_4
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 716
+        width: 284
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317041b24044141f0800000000000000
+      internalID: -1062493252389435629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_5
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 716
+        width: 284
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27a33d507aca4800800000000000000
+      internalID: 597512484528826156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 284
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d319c02dfe04ee10800000000000000
+      internalID: 2225920596167431129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 570
+        width: 284
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f2f4036f2f07a70800000000000000
+      internalID: 8822818809205174020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_8
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 570
+        width: 284
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5194a135b40e90b0800000000000000
+      internalID: -5720129300445490850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_9
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 570
+        width: 284
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6d1570c8fb6bdc0800000000000000
+      internalID: -3623498242033854784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_10
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 570
+        width: 284
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6364d6b25ea2d000800000000000000
+      internalID: 59301415387161455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_11
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 570
+        width: 284
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c50fd9ea02d94ac0800000000000000
+      internalID: -3870331460433017404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 284
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7121e9451a31753b0800000000000000
+      internalID: -5523924834316316137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 426
+        width: 283
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4377b9e58a9bc6b0800000000000000
+      internalID: -5274952638591962294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_14
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 427
+        width: 284
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0134b4f65ba3bec0800000000000000
+      internalID: -3552307291104202483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_15
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 426
+        width: 284
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdfa17127272a440800000000000000
+      internalID: 4945641175145708989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_16
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 426
+        width: 283
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84531d2188a442fe0800000000000000
+      internalID: -1214764051191483064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_17
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 427
+        width: 284
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93f4bdeae3430c70800000000000000
+      internalID: 8936060761922663326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 284
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c485803a7259c460800000000000000
+      internalID: 7262426558865179841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 284
+        width: 284
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1b9ae79512e22d0800000000000000
+      internalID: -3301664808555138632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_20
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 284
+        width: 284
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c8f2aa875c1ca40800000000000000
+      internalID: 5386803751353814078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_21
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 284
+        width: 284
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583e21ce1981d3c10800000000000000
+      internalID: 2034809621651317637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_22
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 284
+        width: 284
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac90f281f894f8a50800000000000000
+      internalID: 6525515264018024906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_23
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 284
+        width: 284
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b4627c68727cfe0800000000000000
+      internalID: -1168922118459077870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 284
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa37f1a01c11872c0800000000000000
+      internalID: -4433774312350059601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 142
+        width: 284
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0d872370cd2ac70800000000000000
+      internalID: 8980982530399850667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_26
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 142
+        width: 284
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe2af357d9f32220800000000000000
+      internalID: 2460084524696612601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_27
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 142
+        width: 284
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f16a30f2bdd6ee0800000000000000
+      internalID: -1266114925250076769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_28
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 142
+        width: 284
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6244625d4bb6c25f0800000000000000
+      internalID: -780130211027598298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_29
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 141
+        width: 284
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ead7f9a7824e570800000000000000
+      internalID: 8494959304254533201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 284
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc906c998d369f90800000000000000
+      internalID: -6947297713929020200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 284
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fca47634552175d0800000000000000
+      internalID: -3066628827641500429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_32
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 284
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a78fc9b625816b0800000000000000
+      internalID: -5325415937217103357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_33
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 0
+        width: 284
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da40c3520299afaa0800000000000000
+      internalID: -6126415979741444947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_34
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 0
+        width: 284
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7107d252f1666960800000000000000
+      internalID: 7594865515006722431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NAVES JUGADOR 1 SHEET_35
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 0
+        width: 284
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7d3118b2f55d930800000000000000
+      internalID: 4167341670655055849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
