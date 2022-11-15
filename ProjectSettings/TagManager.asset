@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - PickUp
+  - Player2
   layers:
   - Default
   - TransparentFX
@@ -11,9 +14,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
+  - enviorment
+  - entitites
+  - front paralax
   - 
   - 
   - 
@@ -38,6 +41,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: background
+    uniqueID: 1050893777
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: enviorments
+    uniqueID: 3789850107
+    locked: 0
+  - name: entities
+    uniqueID: 3202839497
+    locked: 0
+  - name: frontenviorments
+    uniqueID: 2683759983
     locked: 0
